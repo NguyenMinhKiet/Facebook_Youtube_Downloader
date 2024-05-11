@@ -4,5 +4,18 @@
 git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader
 chạy file app.py để khởi động ứng dụng
 # Demo
+FACEBOOK:
+Màn hình chính facebook
 ![Màn hình chính facebook](ManHinhChinhFacebook.png)
+Màn hình thiếu access token
+![Màn hình thiếu access token](ManHinhThieuACCESSTOKEN.png)
+Màn hình thành công
+![Màn hình thành công](ketquaFACEBOOK.png)
+
+YOUTUBE:
+Màn hình chính youtube
 ![Màn hình chính youtube](ManHinhChinhYoutube.png)
+Màn hình thông báo thiếu id chanel
+![Màn hình thông báo thiếu  id chanel](ManHinhThieuIDCHANEL.png)
+Màn hình thành công
+![Màn hình thành công](ketquaYOUTUBE.png)
