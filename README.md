@@ -15,6 +15,10 @@
 
 ## Cách sử dụng
 * chạy file app.py để khởi động ứng dụng
+### YOUTUBE
+* vào [đây](https://commentpicker.com/youtube-channel-id.php) lấy id chanel và nhập vào ứng dụng
+### FACEBOOK
+* vào [trang dành cho các nhà phát triển của facebook](https://developers.facebook.com/?locale=vi_VN) tạo ứng dụng và lấy ACCESS TOKEN
 # Các giao diện
 FACEBOOK:\
 Màn hình chính facebook
