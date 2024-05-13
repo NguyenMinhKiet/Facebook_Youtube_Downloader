@@ -5,14 +5,19 @@ git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader
 python 3.7.9
 
 ## Thư viện
-* Các thư viện cần có
-  * requests
-  * json
-  * pytube
-  * webbrower
-  * urllib.request
-  * tkinter
-  * progressbar
++------------------------+
+|                        |
+|  * Các thư viện cần có |
+|  * requests            |
+|  * json                |
+|  * pytube              |
+|  * webbrower           |
+|  * urllib.request      |
+|  * tkinter             |
+|  * progressbar         |
+|                        |
++------------------------+
+
 ## Cách sử dụng
 chạy file app.py để khởi động ứng dụng
 # Demo
