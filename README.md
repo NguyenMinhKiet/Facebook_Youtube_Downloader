@@ -1,7 +1,19 @@
 # Giới thiệu
 Đây là 1 dự án cá nhân về ứng dụng tại video trên facebook và youtube. Bấm vào [đây](3120410270_NguyenMinhKiet_Facebook_Youtube_Downloader) để xem chi tiết ứng dụng
 # Cài đặt
-git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader 
+git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader
+python 3.7.9
+
+## Thư viện
+* Các thư viện cần có
+  * requests
+  * json
+  * pytube
+  * webbrower
+  * urllib.request
+  * tkinter
+  * progressbar
+## Cách sử dụng
 chạy file app.py để khởi động ứng dụng
 # Demo
 FACEBOOK:\
