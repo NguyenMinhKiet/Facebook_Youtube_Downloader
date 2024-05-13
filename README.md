@@ -1,8 +1,8 @@
 # Giới thiệu
 Đây là 1 dự án cá nhân về ứng dụng tại video trên facebook và youtube.Trong ứng dụng người dùng sẽ có 2 lựa chọn cho người dùng tùy biến chọn để tải video từ page của mình từ facebook hoặc các video từ 1 chanel.Ứng dụng sử dụng API miễn phí của Youtube và Facebook để thực hiện các thao tác. Để tìm hiểu rõ về ứng dụng hơn ta có thể xem tại [đây](3120410270_NguyenMinhKiet_Facebook_Youtube_Downloader).
 # Cài đặt
-git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader
-python 3.7.9
+* git clone https://github.com/NguyenMinhKiet/Facebook_Youtube_Downloader
+* Phiên bản python: 3.7.9
 
 ## Thư viện
 * requests            
@@ -14,8 +14,8 @@ python 3.7.9
 * progressbar     
 
 ## Cách sử dụng
-chạy file app.py để khởi động ứng dụng
-# Demo
+* chạy file app.py để khởi động ứng dụng
+# Các giao diện
 FACEBOOK:\
 Màn hình chính facebook
 ![Màn hình chính facebook](ManHinhChinhFacebook.png)
